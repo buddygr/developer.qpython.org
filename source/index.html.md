@@ -88,6 +88,6 @@ The Scripting Layer for Android (abridged as SL4A, and previously named Android 
 
 There are many SL4A APIs, if you found any issue, please `report an issue <https://github.com/qpython-android/qpython/issues>`_.
 
-<a href='qsl4a.html'>Read QSL4A's APIs >></a>
+<a href='https://buddygr.github.io/developer.qpython.org/source/qsl4a.html'>Read QSL4A's APIs >></a>
 
 
